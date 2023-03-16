@@ -27,8 +27,8 @@
   
   </br>
   
-  <img height="180em" alt="AntDavidLima's Github stats" src="https://github-readme-stats.vercel.app/api?username=AntDavidLima&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="180em" alt="AntDavidLima's Github most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntDavidLima&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img height="180em" width="420em" alt="AntDavidLima's Github stats" src="https://github-readme-stats.vercel.app/api?username=AntDavidLima&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="180em" width="420em" alt="AntDavidLima's Github most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntDavidLima&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
   
   </br>
   
