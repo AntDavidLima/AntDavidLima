@@ -31,16 +31,15 @@
   <img height="180em" alt="AntDavidLima's Github most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntDavidLima&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
   
   </br>
-  </br>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-    <img alt="github-snake" src="github-snake.svg" />
-  </picture>
   
   <a href="https://linkedin.com/in/antdavidlima"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/caradebreno"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" /></a>
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=AntDavidLima&icon=0&color=3)](https://visitcount.itsvg.in)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
